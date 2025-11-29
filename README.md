@@ -19,7 +19,7 @@
 - OS: Windows 11, macOS 12+(これからテスト)
 
 ## インストール（開発者モード）
-1. リポジトリをクローンして取得、またはリリースからダウンロードし、`chrome_ext/` ディレクトリを取得してください。
+1. リポジトリをクローンするか、[リリースページ](https://github.com/yutawtr1214/ai-chat-ctrl-cmd-enter-sender-chrome-extension/releases/tag/v0.1)から ZIP をダウンロードして展開し、`chrome_ext/` ディレクトリを取得してください。
 2. Chrome で `chrome://extensions/` を開き、「デベロッパーモード」を ON。  
 3. 「パッケージ化されていない拡張機能を読み込む」で `chrome_ext` ディレクトリを指定。  
 4. 対応サイトを開き、入力欄にフォーカスして動作を確認します。
