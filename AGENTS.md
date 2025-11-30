@@ -35,5 +35,5 @@
 
 ## 使用MCP
 - DeepWiki MCP
-    - https://deepwiki.ai/mcp/my-gpt-sender がすでに動作する参考リポジトリとして確認済み
+    - https://github.com/masachika-kamada/ChatGPT-Ctrl-Enter-Sender がすでに動作する参考リポジトリとして確認済み
 - serena MCP

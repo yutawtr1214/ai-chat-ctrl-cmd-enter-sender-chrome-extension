@@ -16,7 +16,9 @@
 
 ## 動作要件
 - ブラウザ: Chrome
-- OS: Windows 11, macOS 12+(これからテスト)
+- OS: Windows 11, macOS 12+
+
+> 今後ChatGPT Atlasにも対応したいが、現時点では未対応
 
 ## インストール（開発者モード）
 1. リポジトリをクローンするか、[リリースページ](https://github.com/yutawtr1214/ai-chat-ctrl-cmd-enter-sender-chrome-extension/releases/tag/v0.1)から ZIP をダウンロードして展開し、`chrome_ext/` ディレクトリを取得してください。
